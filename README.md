@@ -25,6 +25,8 @@
 
 3.[Durum Senaryoları](Durum-senaryoları.md)
 
+4.[Durum Diyagramı](diyagram.png)
+
 
 
 
